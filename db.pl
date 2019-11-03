@@ -4,7 +4,7 @@ get_questions(Q) :-
 get_facts(F) :-
     F = [man, dead, has_children, actor_comedian, older_than_50, bald, was_is_president, black].
 
-man(jim_carrey).
+man(jim_carrey). 
 has_children(jim_carrey).
 actor_comedian(jim_carrey).
 older_than_50(jim_carrey).
